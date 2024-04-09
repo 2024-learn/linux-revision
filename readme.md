@@ -246,7 +246,8 @@
   J
   J
   J
-  J```
+  J
+  ```
 
 - `cut -c1,2,4`: will pick and choose characters and parse them together as one word
   - `cut -c1,2,4 theJays`
